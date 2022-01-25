@@ -16,4 +16,3 @@ class Solution:
         else:
             digits[-1] += 1
         return digits
-    
